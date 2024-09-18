@@ -1,0 +1,8 @@
+Licence.txt
+setup.py
+securedai/__init__.py
+securedai.egg-info/PKG-INFO
+securedai.egg-info/SOURCES.txt
+securedai.egg-info/dependency_links.txt
+securedai.egg-info/requires.txt
+securedai.egg-info/top_level.txt
