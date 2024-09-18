@@ -1,4 +1,5 @@
-Licence.txt
+LICENSE.txt
+README.md
 setup.py
 securedai/__init__.py
 securedai.egg-info/PKG-INFO
